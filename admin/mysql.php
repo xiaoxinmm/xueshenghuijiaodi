@@ -2,10 +2,10 @@
 
 //本人的数据库
 
-$servername = "sh-cynosdbmysql-grp-ps5qhet6.sql.tencentcdb.com:27790";
-$username = "root";
-$password = "chenyuluoyan1.a";
-$dbname = "db1";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
                                     //随意选择一个 本地好管理 云数据库 也不花钱
 /*
